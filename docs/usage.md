@@ -60,3 +60,4 @@ Notes and usage details for ugm.
 - fix a small wording issue
 - link the usage section
 - fix a small wording issue
+- link the usage section
